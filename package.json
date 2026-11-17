@@ -1,0 +1,8 @@
+{
+  "name": "dsh-agentteam-worktree-demo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}
